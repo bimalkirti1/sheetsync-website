@@ -18,7 +18,13 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "baseUrl": "src", // Add this line
+    "paths": {         // Add this block
+      "@/components/*": ["components/*"],
+      "@/lib/*": ["lib/*"], // if you have a 'lib' folder in src/
+      // You can also add more specific aliases if needed, but '@/components/*' should cover the UI components
+    }
   },
   "include": [
     "src"
