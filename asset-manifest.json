@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sheetsync-website/static/css/main.857524fd.css",
+    "main.js": "/sheetsync-website/static/js/main.7f3c5eec.js",
+    "static/media/gvar.png": "/sheetsync-website/static/media/gvar.ee6974afb9d5631d2b7a.png",
+    "index.html": "/sheetsync-website/index.html",
+    "main.857524fd.css.map": "/sheetsync-website/static/css/main.857524fd.css.map",
+    "main.7f3c5eec.js.map": "/sheetsync-website/static/js/main.7f3c5eec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857524fd.css",
+    "static/js/main.7f3c5eec.js"
+  ]
+}
